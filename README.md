@@ -4,9 +4,9 @@ The demo video highlights the difficulties when processing videos. Many computer
 
 From this video we can observe that preprocessing algorithms are suitable for practical applications, whereas contrast-based decolor videos appear incoherent.
 
-![F632](video/632.jpg)
-![F4542](video/4542.jpg)
-![F5295](video/5295.jpg)
+![F632](video/632_633.jpg)
+![F4542](video/4542_4543.jpg)
+![F5295](video/5295_5296.jpg)
 
 [Video1](video/comparison1.mp4)
 
