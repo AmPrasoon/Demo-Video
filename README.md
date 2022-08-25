@@ -3,6 +3,7 @@
 The demo video highlights the difficulties when processing videos. Many computer vision and image processing applications demand real-time operations.
 From this video we can observe that preprocessing algorithms are suitable for practical applications, whereas contrast-based decolor videos appear incoherent.
 
+```HTML
 <video id="video" controls="" preload="none" poster="comparison">
 
 <source id="mp4" src="video/comparison1" type="video/mp4">
@@ -12,6 +13,7 @@ From this video we can observe that preprocessing algorithms are suitable for pr
 
 <source id="mp4" src="video/comparison2" type="video/mp4">
 </videos>
+```
 
 References
 [1] Lu et al. (OpenCV) [DOI:10.1007/s11263-014-0732-6](https://doi.org/10.1007/s11263-014-0732-6)
